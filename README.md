@@ -2,7 +2,7 @@
 
 > **Python data analysis practice using renewable energy datasets**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](your-colab-notebook-link-here)
+https://colab.research.google.com/drive/1OLOlevyQ9hNgWlFU1BTO0oi04BcddiDX?usp=sharing
 
 ---
 
